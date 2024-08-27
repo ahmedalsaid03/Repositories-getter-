@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.info p{
+    color: cornflowerblue;
+    font-size: 24px;
+    text-align: center;
+    font-weight: bold
+}
